@@ -1,5 +1,5 @@
 Приложение, которое подскажет людям, чем заняться, если им скучно, а у самих фантазии нет!
-(https://are-u-bored-tips.netlify.app/)
+(https://activity-if-bored.netlify.app/)
 
 1 - Получила доступ к этой API:
 http://www.boredapi.com/api/activity/ 
